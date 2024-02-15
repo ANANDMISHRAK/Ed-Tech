@@ -18,21 +18,21 @@ This Backend Project Related to Ed-Tech, Perform this task:
 
 Using Tach Stack
 Programming
--- Javascript, Node.js, express.js, Rest API, MongoDB
--- ODM -> mongoose
--- security-> JWT , bcrypt
--- Database -> MongoDB
--- V S Code
+- Javascript, Node.js, express.js, Rest API, MongoDB
+- ODM -> mongoose
+- security-> JWT , bcrypt
+- Database -> MongoDB
+- V S Code
 
 ### How to Run
 
--- if you have cloning this then set in local
--- instal node_module-> npm i express
+ if you have cloning this then set in local
+    - instal node_module-> npm i express
 
--- once set the database URL in .env file
--- like: MONGODB_URL=mongodb://127.0.0.1:27017/EdTech
--- or MONGODB_URL=MongoDB Atls DB URL (i have set on MongoDb Atls Cloud, but Security issue : set url locally)
--- EdTech is DataBase Name
+ nce set the database URL in .env file
+- like: MONGODB_URL=mongodb://127.0.0.1:27017/EdTech
+- or MONGODB_URL=MongoDB Atls DB URL (i have set on MongoDb Atls Cloud, but Security issue : set url locally)
+- EdTech is DataBase Name
 
--- run Command : npm run dev
--- This project start point or file : src/index.js
+run Command : npm run dev
+- This project start point or file : src/index.js
