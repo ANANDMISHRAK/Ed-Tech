@@ -5,14 +5,14 @@
 This Backend Project Related to Ed-Tech, Perform this task:
 
 
--- Teacher can Sign Up, Login, Update Profile, Update Password, refresh Token
--- Teacher can Schedule Classes and Cancel the Class
--- teacher can Apply for Leave
--- Now Admin can Generate Menthely & teacher wise Report
--- in this Reportcan see, a teacher
--- How many Hours taken Classes
--- How many days taken classes
--- how many days and Hours , teacher on Leave
+- Teacher can Sign Up, Login, Update Profile, Update Password, refresh Token
+- Teacher can Schedule Classes and Cancel the Class
+- teacher can Apply for Leave
+- Now Admin can Generate Menthely & teacher wise Report
+- in this Reportcan see, a teacher
+- How many Hours taken Classes
+- How many days taken classes
+- how many days and Hours , teacher on Leave
 
 ### Set Up project
 
